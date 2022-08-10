@@ -1,0 +1,30 @@
+1) PS C:\Users\Francoise\OneDrive\Documentos\CTD\Programação Imperativa\mesa3> node .\ex3.js
+35
+
+2) PS C:\Users\Francoise\OneDrive\Documentos\CTD\Programação Imperativa\mesa3> node .\ex3.js
+35
+10
+
+3) PS C:\Users\Francoise\OneDrive\Documentos\CTD\Programação Imperativa\mesa3> node .\ex3.js
+35
+10
+12
+
+4) PS C:\Users\Francoise\OneDrive\Documentos\CTD\Programação Imperativa\mesa3> node .\ex3.js
+35
+10
+12
+15
+
+5) PS C:\Users\Francoise\OneDrive\Documentos\CTD\Programação Imperativa\mesa3> node .\ex3.js
+36
+11
+12
+4 
+
+6) C:\Users\Francoise\OneDrive\Documentos\CTD\Programação Imperativa\mesa3\ex3.js:16
+let z = ("Olá" = 23);
+         ^^^^^
+
+7) PS C:\Users\Francoise\OneDrive\Documentos\CTD\Programação Imperativa\mesa3> node .\ex3.js
+Vinicius Viana      
